@@ -58,7 +58,7 @@
         "tab": "Maokun's Test",
         "groups": [
           {
-            "group": "Test 1",
+            "group": "Set Up",
             "pages": [
               "test/test1"
             ]
