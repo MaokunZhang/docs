@@ -53,6 +53,23 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Maokun's Test",
+        "groups": [
+          {
+            "group": "Test 1",
+            "pages": [
+              
+            ]
+          },
+          {
+            "group": "Test 2",
+            "pages": [
+              
+            ]
+          }
+        ]
       }
     ],
     "global": {
