@@ -11,12 +11,12 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Tab1",
         "groups": [
           {
             "group": "Get Started",
             "pages": [
-              "index",
+              "Maokun's Test",
               "quickstart",
               "development"
             ]
