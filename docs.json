@@ -60,13 +60,13 @@
           {
             "group": "Test 1",
             "pages": [
-              
+              "test/test1"
             ]
           },
           {
             "group": "Test 2",
             "pages": [
-              
+              "test/test2"
             ]
           }
         ]
